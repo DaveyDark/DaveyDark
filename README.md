@@ -5,7 +5,7 @@
 I'm Devesh Sharma, a student at Guru Nanak Dev Engineering College, Ludhiana, Punjab. I am a Tech Enthusiast and have been one very since I was young and that has caused me to learn and explore various technological fields such as Programming, Web Development, Game Development,Linux, 3D Modelling, Music Production, Video/Audio Editing and so on. I am always eager to learn and try new things and have a natural curiosity about all things technical
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [daveydark.tech](http://daveydark.tech)
+- 🖥️  See my portfolio at [daveydark.tech](http://daveydark.vercel.app)
 - ✉️  You can contact me at [devesh97531@gmail.com](mailto:devesh97531@gmail.com)
 
 <a href="https://www.github.com/daveydark" target="_blank" rel="noreferrer"><img
